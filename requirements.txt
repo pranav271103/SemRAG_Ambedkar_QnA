@@ -1,0 +1,33 @@
+# Core Dependencies
+sentence-transformers>=2.2.0
+spacy>=3.5.0
+networkx>=3.0
+python-louvain>=0.16
+
+# PDF Processing
+pypdf>=3.0.0
+pdfplumber>=0.9.0
+
+# LLM
+ollama>=0.3.0
+
+# Vector Operations
+numpy>=1.24.0
+scikit-learn>=1.3.0
+faiss-cpu>=1.7.4
+
+# UI
+streamlit>=1.28.0
+pyvis>=0.3.0
+plotly>=5.18.0
+
+# Utilities
+pyyaml>=6.0
+tqdm>=4.65.0
+python-dotenv>=1.0.0
+
+# NLP
+nltk>=3.8.0
+
+# Testing
+pytest>=7.0.0

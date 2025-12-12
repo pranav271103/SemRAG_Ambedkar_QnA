@@ -1,0 +1,74 @@
+# AmbedkarGPT Configuration
+# SemRAG-based Q&A System for Dr. B.R. Ambedkar's Works
+
+# Embedding Model
+embedding:
+  model_name: "sentence-transformers/all-MiniLM-L6-v2"
+  device: "cpu"  # or "cuda" if GPU available
+
+# LLM Configuration (Ollama)
+llm:
+  model_name: "granite3-dense:2b"
+  base_url: "http://localhost:11434"
+  temperature: 0.7
+  max_tokens: 2048
+  context_window: 4096
+
+# Semantic Chunking (Algorithm 1)
+chunking:
+  similarity_threshold: 0.5  # Threshold for grouping sentences
+  max_tokens: 1024           # Maximum tokens per chunk
+  sub_chunk_size: 128        # Sub-chunk token size
+  overlap_tokens: 20         # Overlap between sub-chunks
+  min_chunk_size: 50         # Minimum tokens per chunk
+  buffer_size: 2             # Number of sentences for buffer merging
+
+# Knowledge Graph
+graph:
+  min_entity_freq: 1         # Minimum frequency for entity inclusion
+  relationship_threshold: 0.3 # Threshold for relationship strength
+  community_algorithm: "louvain"  # "louvain" or "leiden"
+  community_resolution: 1.0  # Resolution parameter for community detection
+
+# Retrieval (Equations 4 & 5)
+retrieval:
+  # Local Search (Equation 4)
+  local:
+    entity_threshold: 0.6    # τ_e: Entity similarity threshold
+    document_threshold: 0.4  # τ_d: Document similarity threshold
+    top_k: 5                 # Number of results to return
+  
+  # Global Search (Equation 5)
+  global:
+    community_top_k: 3       # Top-K communities to consider
+    chunk_top_k: 5           # Top-K chunks from communities
+  
+  # Hybrid Search
+  hybrid:
+    local_weight: 0.6        # Weight for local search results
+    global_weight: 0.4       # Weight for global search results
+
+# Paths
+paths:
+  data_dir: "data"
+  processed_dir: "data/processed"
+  pdf_file: "data/Ambedkar_book.pdf"
+  chunks_file: "data/processed/chunks.json"
+  entities_file: "data/processed/entities.json"
+  graph_file: "data/processed/knowledge_graph.pkl"
+  embeddings_file: "data/processed/embeddings.npy"
+  community_summaries_file: "data/processed/community_summaries.json"
+
+# Logging
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+
+# UI Settings
+ui:
+  title: "AmbedkarGPT"
+  subtitle: "SemRAG-powered Q&A on Dr. B.R. Ambedkar's Works"
+  theme: "dark"
+  show_sources: true
+  show_graph: true
+  max_history: 10
