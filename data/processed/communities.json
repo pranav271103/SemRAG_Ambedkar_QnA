@@ -1,0 +1,4278 @@
+[
+  {
+    "id": 5,
+    "size": 138,
+    "entities": [
+      {
+        "node_id": "entity_6",
+        "text": "Ambedkar",
+        "label": "PERSON",
+        "frequency": 54
+      },
+      {
+        "node_id": "entity_10",
+        "text": "Babasaheb",
+        "label": "PERSON",
+        "frequency": 43
+      },
+      {
+        "node_id": "entity_14",
+        "text": "Bombay",
+        "label": "GPE",
+        "frequency": 18
+      },
+      {
+        "node_id": "entity_26",
+        "text": "Committee",
+        "label": "ORG",
+        "frequency": 12
+      },
+      {
+        "node_id": "entity_29",
+        "text": "Gandhi",
+        "label": "PERSON",
+        "frequency": 11
+      },
+      {
+        "node_id": "entity_38",
+        "text": "Sant Ram",
+        "label": "PERSON",
+        "frequency": 9
+      },
+      {
+        "node_id": "entity_41",
+        "text": "Shastras",
+        "label": "PERSON",
+        "frequency": 9
+      },
+      {
+        "node_id": "entity_42",
+        "text": "Conference",
+        "label": "ORG",
+        "frequency": 8
+      },
+      {
+        "node_id": "entity_43",
+        "text": "Europe",
+        "label": "LOC",
+        "frequency": 8
+      },
+      {
+        "node_id": "entity_49",
+        "text": "the Reception Committee",
+        "label": "ORG",
+        "frequency": 7
+      },
+      {
+        "node_id": "entity_50",
+        "text": "Varnas",
+        "label": "ORG",
+        "frequency": 7
+      },
+      {
+        "node_id": "entity_56",
+        "text": "Punjab",
+        "label": "NORP",
+        "frequency": 6
+      },
+      {
+        "node_id": "entity_65",
+        "text": "Har Bhagwan",
+        "label": "PERSON",
+        "frequency": 5
+      },
+      {
+        "node_id": "entity_71",
+        "text": "Varna",
+        "label": "ORG",
+        "frequency": 5
+      },
+      {
+        "node_id": "entity_76",
+        "text": "Varnavyavastha",
+        "label": "GPE",
+        "frequency": 5
+      },
+      {
+        "node_id": "entity_80",
+        "text": "Dr. B.R. Ambedkar",
+        "label": "PERSON",
+        "frequency": 4
+      },
+      {
+        "node_id": "entity_88",
+        "text": "Liberty",
+        "label": "ORG",
+        "frequency": 4
+      },
+      {
+        "node_id": "entity_97",
+        "text": "European",
+        "label": "NORP",
+        "frequency": 3
+      },
+      {
+        "node_id": "entity_98",
+        "text": "Truth",
+        "label": "GPE",
+        "frequency": 3
+      },
+      {
+        "node_id": "entity_99",
+        "text": "Gokal Chand",
+        "label": "PERSON",
+        "frequency": 3
+      },
+      {
+        "node_id": "entity_102",
+        "text": "Savarnas",
+        "label": "ORG",
+        "frequency": 3
+      },
+      {
+        "node_id": "entity_114",
+        "text": "Caste and Untouchability",
+        "label": "ORG",
+        "frequency": 3
+      },
+      {
+        "node_id": "entity_122",
+        "text": "American",
+        "label": "NORP",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_127",
+        "text": "Amritsar",
+        "label": "ORG",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_128",
+        "text": "Eight days later",
+        "label": "DATE",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_135",
+        "text": "annual",
+        "label": "DATE",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_151",
+        "text": "Puritanism",
+        "label": "NORP",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_153",
+        "text": "Mahatmas",
+        "label": "PERSON",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_174",
+        "text": "Ahimsa",
+        "label": "GPE",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_175",
+        "text": "Chaitanya, Jnyandeo, Tukaram, Tiruvalluvar, Ramkrishna Paramahansa",
+        "label": "ORG",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_176",
+        "text": "Shri Sant Ram",
+        "label": "PERSON",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_181",
+        "text": "Vedic",
+        "label": "LOC",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_198",
+        "text": "East",
+        "label": "LOC",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_214",
+        "text": "A. K. Coomaraswamy",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_215",
+        "text": "the British Sociological Review",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_216",
+        "text": "1913",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_233",
+        "text": "1915",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_234",
+        "text": "Tardian",
+        "label": "NORP",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_242",
+        "text": "Untruth as Untruth",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_244",
+        "text": "1944",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_250",
+        "text": "a Second Edition",
+        "label": "LAW",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_251",
+        "text": "Appendix",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_252",
+        "text": "Appendix I. Besides",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_254",
+        "text": "Essay",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_259",
+        "text": "Prithwiraj Road B. R.",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_260",
+        "text": "New Delhi",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_261",
+        "text": "December 1944",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_262",
+        "text": "December 12, 1935",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_263",
+        "text": "Saheb",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_264",
+        "text": "the 5th December",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_266",
+        "text": "Executive Committee",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_267",
+        "text": "Independent Harijans of Punjab",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_268",
+        "text": "Harijan",
+        "label": "NORP",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_273",
+        "text": "The Annual Conference",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_274",
+        "text": "Easter",
+        "label": "LOC",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_275",
+        "text": "the middle of May 1936",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_276",
+        "text": "The Reception Committee of the Mandal",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_278",
+        "text": "Sjt",
+        "label": "LOC",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_279",
+        "text": "all quarters",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_280",
+        "text": "Bhai Parmanand",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_281",
+        "text": "Hindu Maha Sabha",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_282",
+        "text": "Mahatma Hans Raj",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_283",
+        "text": "Narendra Nath",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_284",
+        "text": "M.L.C.",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_286",
+        "text": "G. C. NARANG",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_287",
+        "text": "the 9th of April",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_289",
+        "text": "April 14, 1936",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_290",
+        "text": "Sahib",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_291",
+        "text": "the 12th",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_292",
+        "text": "the 25th",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_294",
+        "text": "HAR BHAGWAN P.S.-Kindly",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_295",
+        "text": "Press",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_296",
+        "text": "Lahore",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_297",
+        "text": "the 25th and",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_298",
+        "text": "warmer every day",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_301",
+        "text": "the middle of May",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_302",
+        "text": "27th April 1936",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_303",
+        "text": "the 22nd April",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_304",
+        "text": "the Reception Committee of the Jat-Pat-Todak Mandal",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_305",
+        "text": "Mandal",
+        "label": "NORP",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_307",
+        "text": "the 9th April",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_308",
+        "text": "the 14th",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_309",
+        "text": "the Sikh Prachar Conference",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_310",
+        "text": "the Committee",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_311",
+        "text": "between the 14th and the 22nd April",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_312",
+        "text": "Presidentship",
+        "label": "FAC",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_314",
+        "text": "Dadar",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_315",
+        "text": "14 15th May 1936",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_317",
+        "text": "1936",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_318",
+        "text": "Speech",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_319",
+        "text": "the Conference ANNIHILATION OF",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_377",
+        "text": "Reformation",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_378",
+        "text": "Luther",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_379",
+        "text": "England Puritanism",
+        "label": "NORP",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_407",
+        "text": "Batcson",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_408",
+        "text": "Mendel’s Principles of Heredity",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_411",
+        "text": "Germans",
+        "label": "NORP",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_436",
+        "text": "Morris",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_440",
+        "text": "5 8",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_458",
+        "text": "Krishna",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_463",
+        "text": "Carlyle",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_491",
+        "text": "6 8",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_543",
+        "text": "MAHATMA GANDHI",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_544",
+        "text": "Articles",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_545",
+        "text": "last May",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_546",
+        "text": "Reception Committee",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_548",
+        "text": "Rao Bahadur M. C. Rajah",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_549",
+        "text": "Harijans",
+        "label": "NORP",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_556",
+        "text": "Mohan Roy",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_557",
+        "text": "Maharshi Devendranath Tagore",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_558",
+        "text": "Vivekanand",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_559",
+        "text": "8 4",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_560",
+        "text": "July 18, 1936",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_563",
+        "text": "August 15, 1936",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_564",
+        "text": "8 6",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_565",
+        "text": "MAHATMA",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_566",
+        "text": "B.R.",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_567",
+        "text": "the Jat Pat Todak Mandal",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_569",
+        "text": "Jnyandeo",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_573",
+        "text": "foVkG",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_574",
+        "text": "Hkkxor",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_575",
+        "text": "8 8",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_576",
+        "text": "Samaritan",
+        "label": "LOC",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_577",
+        "text": "Chaitanya",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_579",
+        "text": "the Social Structure",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_580",
+        "text": "H. N. Brailsford",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_581",
+        "text": "the Aryan Path",
+        "label": "FAC",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_582",
+        "text": "April 1936",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_596",
+        "text": "Sanatani Hindu",
+        "label": "NORP",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_597",
+        "text": "Swami Dayanand Saraswati",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_598",
+        "text": "the Vedic Varnavyavastha",
+        "label": "LOC",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_599",
+        "text": "Swami Dayanand",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_600",
+        "text": "the Varna System",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_601",
+        "text": "Ambedkar’s Indictment",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_602",
+        "text": "Whom",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_603",
+        "text": "Politician",
+        "label": "NORP",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_607",
+        "text": "Mathew Arnold",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_608",
+        "text": "9 6",
+        "label": "DATE",
+        "frequency": 1
+      }
+    ],
+    "internal_edges": 1055,
+    "top_entities": [
+      "Ambedkar",
+      "Babasaheb",
+      "Bombay",
+      "Committee",
+      "Gandhi"
+    ]
+  },
+  {
+    "id": 3,
+    "size": 88,
+    "entities": [
+      {
+        "node_id": "entity_4",
+        "text": "India",
+        "label": "GPE",
+        "frequency": 78
+      },
+      {
+        "node_id": "entity_19",
+        "text": "today",
+        "label": "DATE",
+        "frequency": 13
+      },
+      {
+        "node_id": "entity_24",
+        "text": "Caste",
+        "label": "GPE",
+        "frequency": 12
+      },
+      {
+        "node_id": "entity_45",
+        "text": "Indian",
+        "label": "NORP",
+        "frequency": 7
+      },
+      {
+        "node_id": "entity_46",
+        "text": "Nesfield",
+        "label": "PERSON",
+        "frequency": 7
+      },
+      {
+        "node_id": "entity_55",
+        "text": "Castes",
+        "label": "FAC",
+        "frequency": 6
+      },
+      {
+        "node_id": "entity_92",
+        "text": "Senart",
+        "label": "PERSON",
+        "frequency": 3
+      },
+      {
+        "node_id": "entity_93",
+        "text": "H. Risley",
+        "label": "PERSON",
+        "frequency": 3
+      },
+      {
+        "node_id": "entity_95",
+        "text": "Tarde",
+        "label": "PERSON",
+        "frequency": 3
+      },
+      {
+        "node_id": "entity_115",
+        "text": "Law",
+        "label": "PERSON",
+        "frequency": 3
+      },
+      {
+        "node_id": "entity_118",
+        "text": "May 1917",
+        "label": "DATE",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_130",
+        "text": "kin",
+        "label": "PERSON",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_154",
+        "text": "Socialist",
+        "label": "ORG",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_168",
+        "text": "Dicey",
+        "label": "PERSON",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_182",
+        "text": "Genesis",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_183",
+        "text": "Development Paper",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_184",
+        "text": "the Anthropology Seminar of Dr. A. A. Goldenweizer",
+        "label": "EVENT",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_185",
+        "text": "The Columbia University",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_186",
+        "text": "New York",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_187",
+        "text": "U.S.A.",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_188",
+        "text": "9th May 1916",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_189",
+        "text": "Indian Antiquary",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_190",
+        "text": "Seminar",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_191",
+        "text": "Castes in India : Their",
+        "label": "WORK_OF_ART",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_192",
+        "text": "Subtler",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_199",
+        "text": "West",
+        "label": "LOC",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_200",
+        "text": "the Indian Peninsula",
+        "label": "LOC",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_201",
+        "text": "Ketkar",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_202",
+        "text": "Prohibition of Intermarriage",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_203",
+        "text": "Autogeny",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_207",
+        "text": "Endogamy",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_208",
+        "text": "Exogamy",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_209",
+        "text": "Sapindas",
+        "label": "NORP",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_210",
+        "text": "Sagotras",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_211",
+        "text": "Gotras",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_213",
+        "text": "Sannyasa",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_217",
+        "text": "Uma",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_219",
+        "text": "the Origin of Caste",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_221",
+        "text": "The Origin of the Mechanism for Endogamy",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_222",
+        "text": "1909",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_223",
+        "text": "non-Brahmin Castes",
+        "label": "NORP",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_226",
+        "text": "Denzil Ibbetson",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_227",
+        "text": "the Petitio Principii",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_228",
+        "text": "Herbert Spencer",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_230",
+        "text": "Gabriel Tarde",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_231",
+        "text": "days",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_232",
+        "text": "this day",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_239",
+        "text": "Guru (Prophet",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_240",
+        "text": "Aryas",
+        "label": "NORP",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_241",
+        "text": "a Supreme Authority",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_243",
+        "text": "DARE",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_256",
+        "text": "Castes in India",
+        "label": "WORK_OF_ART",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_257",
+        "text": "Origin",
+        "label": "FAC",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_258",
+        "text": "the Indian Antiquary Journal",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_265",
+        "text": "Kranti",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_269",
+        "text": "Indra Singh",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_270",
+        "text": "Xmas",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_271",
+        "text": "Caste Hindu Social Reformers",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_272",
+        "text": "the Caste Hindus",
+        "label": "WORK_OF_ART",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_299",
+        "text": "May",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_306",
+        "text": "Reformer",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_325",
+        "text": "socialists",
+        "label": "NORP",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_338",
+        "text": "Maratha",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_395",
+        "text": "European Society",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_396",
+        "text": "Economic Interpretation of History",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_397",
+        "text": "a few days ago",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_399",
+        "text": "Socialism",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_400",
+        "text": "the Caste System",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_401",
+        "text": "D. R. Bhandarkar",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_402",
+        "text": "Marathas",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_418",
+        "text": "the Cromwellian War",
+        "label": "EVENT",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_421",
+        "text": "Caste Consciousness",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_424",
+        "text": "Anaryas of the Vedic days",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_437",
+        "text": "Caste System",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_455",
+        "text": "the Mourya Empire",
+        "label": "LOC",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_461",
+        "text": "Asia",
+        "label": "LOC",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_475",
+        "text": "History",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_493",
+        "text": "kith",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_494",
+        "text": "English Constitution",
+        "label": "EVENT",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_504",
+        "text": "Ashta",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_505",
+        "text": "Sanskaras",
+        "label": "LOC",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_530",
+        "text": "yesterday",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_531",
+        "text": "this Law as Religion",
+        "label": "LAW",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_561",
+        "text": "Doctorate",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_593",
+        "text": "Years ago",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_594",
+        "text": "Caste versus Class",
+        "label": "WORK_OF_ART",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_595",
+        "text": "Young India",
+        "label": "FAC",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_606",
+        "text": "Balfour",
+        "label": "PERSON",
+        "frequency": 1
+      }
+    ],
+    "internal_edges": 551,
+    "top_entities": [
+      "India",
+      "today",
+      "Caste",
+      "Indian",
+      "Nesfield"
+    ]
+  },
+  {
+    "id": 13,
+    "size": 79,
+    "entities": [
+      {
+        "node_id": "entity_16",
+        "text": "Congress",
+        "label": "ORG",
+        "frequency": 17
+      },
+      {
+        "node_id": "entity_20",
+        "text": "Shudra",
+        "label": "ORG",
+        "frequency": 13
+      },
+      {
+        "node_id": "entity_32",
+        "text": "the Hindu Society",
+        "label": "ORG",
+        "frequency": 10
+      },
+      {
+        "node_id": "entity_36",
+        "text": "Kshatriya",
+        "label": "ORG",
+        "frequency": 9
+      },
+      {
+        "node_id": "entity_39",
+        "text": "the Social Conference",
+        "label": "ORG",
+        "frequency": 9
+      },
+      {
+        "node_id": "entity_47",
+        "text": "Hindu Society",
+        "label": "ORG",
+        "frequency": 7
+      },
+      {
+        "node_id": "entity_54",
+        "text": "Swaraj",
+        "label": "PERSON",
+        "frequency": 7
+      },
+      {
+        "node_id": "entity_61",
+        "text": "Shambuka",
+        "label": "PERSON",
+        "frequency": 6
+      },
+      {
+        "node_id": "entity_66",
+        "text": "Bonnerji",
+        "label": "PERSON",
+        "frequency": 5
+      },
+      {
+        "node_id": "entity_72",
+        "text": "Rama",
+        "label": "PERSON",
+        "frequency": 5
+      },
+      {
+        "node_id": "entity_78",
+        "text": "Society",
+        "label": "ORG",
+        "frequency": 4
+      },
+      {
+        "node_id": "entity_82",
+        "text": "the Social Reform Party",
+        "label": "ORG",
+        "frequency": 4
+      },
+      {
+        "node_id": "entity_85",
+        "text": "Buddha",
+        "label": "PERSON",
+        "frequency": 4
+      },
+      {
+        "node_id": "entity_94",
+        "text": "Sati",
+        "label": "ORG",
+        "frequency": 3
+      },
+      {
+        "node_id": "entity_96",
+        "text": "daily",
+        "label": "DATE",
+        "frequency": 3
+      },
+      {
+        "node_id": "entity_109",
+        "text": "Plato",
+        "label": "PERSON",
+        "frequency": 3
+      },
+      {
+        "node_id": "entity_110",
+        "text": "Shudras",
+        "label": "LOC",
+        "frequency": 3
+      },
+      {
+        "node_id": "entity_116",
+        "text": "Burke",
+        "label": "PERSON",
+        "frequency": 3
+      },
+      {
+        "node_id": "entity_121",
+        "text": "French",
+        "label": "NORP",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_136",
+        "text": "Tilak",
+        "label": "PERSON",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_162",
+        "text": "Arya Samajists",
+        "label": "PERSON",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_163",
+        "text": "Plato’s Republic",
+        "label": "ORG",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_179",
+        "text": "Bramha",
+        "label": "ORG",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_180",
+        "text": "Goddesses",
+        "label": "PERSON",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_224",
+        "text": "Caste Dharma",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_237",
+        "text": "Group A",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_238",
+        "text": "Group B",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_277",
+        "text": "Ji",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_300",
+        "text": "the day",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_326",
+        "text": "the National Congress",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_327",
+        "text": "a Political Reform Party",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_328",
+        "text": "a Social Reform Party",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_329",
+        "text": "The Political Reform Party",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_330",
+        "text": "the National Congress and Social Reform Party",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_331",
+        "text": "a decade",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_332",
+        "text": "W.C. Bonnerji",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_333",
+        "text": "1892",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_334",
+        "text": "Allahabad",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_335",
+        "text": "the Social Conference ANNIHILATION OF",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_336",
+        "text": "Oxford",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_337",
+        "text": "Cambridge",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_358",
+        "text": "The Social Conference",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_359",
+        "text": "Hindu Family",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_360",
+        "text": "the Political Reform Party",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_394",
+        "text": "Goddess",
+        "label": "LOC",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_439",
+        "text": "XIV",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_441",
+        "text": "XV",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_442",
+        "text": "the Arya Samajists",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_443",
+        "text": "Chaturvarnya",
+        "label": "EVENT",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_444",
+        "text": "the Brahmin, Kshatriya",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_445",
+        "text": "Brahmin, Kshatriya",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_446",
+        "text": "Platonic",
+        "label": "NORP",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_447",
+        "text": "the Ramayana of Rama",
+        "label": "FAC",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_448",
+        "text": "Ram Raj",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_451",
+        "text": "Vaishya",
+        "label": "NORP",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_452",
+        "text": "Tryavarnikas",
+        "label": "NORP",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_453",
+        "text": "the Laws ANNIHILATION OF",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_454",
+        "text": "the Laws of Manu",
+        "label": "WORK_OF_ART",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_456",
+        "text": "XVIII Chaturvarnya",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_457",
+        "text": "Bhagwat",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_459",
+        "text": "Avtar",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_460",
+        "text": "Kshatriyas",
+        "label": "LOC",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_533",
+        "text": "a Religion of Rules",
+        "label": "LAW",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_534",
+        "text": "Civil Government",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_538",
+        "text": "any quarter",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_540",
+        "text": "John Dewey",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_541",
+        "text": "the French Revolution",
+        "label": "EVENT",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_542",
+        "text": "Dewey",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_553",
+        "text": "Ashrama",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_585",
+        "text": "Vishnu-the God of Love",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_586",
+        "text": "Shankar",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_587",
+        "text": "Buddha Gaya",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_588",
+        "text": "Love",
+        "label": "WORK_OF_ART",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_589",
+        "text": "Kali",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_590",
+        "text": "Rama-the Kshatriya",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_591",
+        "text": "the Temple of Parshuram",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_592",
+        "text": "Avatar",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_604",
+        "text": "XI Hindu",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_605",
+        "text": "the days",
+        "label": "DATE",
+        "frequency": 1
+      }
+    ],
+    "internal_edges": 401,
+    "top_entities": [
+      "Congress",
+      "Shudra",
+      "the Hindu Society",
+      "Kshatriya",
+      "the Social Conference"
+    ]
+  },
+  {
+    "id": 1,
+    "size": 77,
+    "entities": [
+      {
+        "node_id": "entity_1",
+        "text": "Hindus",
+        "label": "NORP",
+        "frequency": 159
+      },
+      {
+        "node_id": "entity_2",
+        "text": "Hindu",
+        "label": "NORP",
+        "frequency": 125
+      },
+      {
+        "node_id": "entity_23",
+        "text": "Sikh",
+        "label": "PERSON",
+        "frequency": 13
+      },
+      {
+        "node_id": "entity_33",
+        "text": "Mohammedans",
+        "label": "NORP",
+        "frequency": 10
+      },
+      {
+        "node_id": "entity_34",
+        "text": "Mohammedan",
+        "label": "PERSON",
+        "frequency": 10
+      },
+      {
+        "node_id": "entity_40",
+        "text": "Sikhs",
+        "label": "NORP",
+        "frequency": 9
+      },
+      {
+        "node_id": "entity_51",
+        "text": "Christian",
+        "label": "NORP",
+        "frequency": 7
+      },
+      {
+        "node_id": "entity_52",
+        "text": "Muslim",
+        "label": "NORP",
+        "frequency": 7
+      },
+      {
+        "node_id": "entity_79",
+        "text": "Christians",
+        "label": "NORP",
+        "frequency": 4
+      },
+      {
+        "node_id": "entity_100",
+        "text": "Maharashtra",
+        "label": "NORP",
+        "frequency": 3
+      },
+      {
+        "node_id": "entity_101",
+        "text": "Shivaji",
+        "label": "PERSON",
+        "frequency": 3
+      },
+      {
+        "node_id": "entity_104",
+        "text": "Chakwara",
+        "label": "GPE",
+        "frequency": 3
+      },
+      {
+        "node_id": "entity_107",
+        "text": "non-Hindus",
+        "label": "NORP",
+        "frequency": 3
+      },
+      {
+        "node_id": "entity_129",
+        "text": "Brahminism",
+        "label": "NORP",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_131",
+        "text": "Hindu Religion",
+        "label": "ORG",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_134",
+        "text": "Ramdas",
+        "label": "PERSON",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_137",
+        "text": "Poona",
+        "label": "PERSON",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_152",
+        "text": "Guru Nanak",
+        "label": "PERSON",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_158",
+        "text": "Shudhi",
+        "label": "ORG",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_160",
+        "text": "Muslims",
+        "label": "NORP",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_170",
+        "text": "Sultan",
+        "label": "LOC",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_177",
+        "text": "Quran",
+        "label": "GPE",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_178",
+        "text": "Bible",
+        "label": "WORK_OF_ART",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_212",
+        "text": "Grahastha",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_235",
+        "text": "Jews",
+        "label": "NORP",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_236",
+        "text": "Parsis",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_313",
+        "text": "Untouchables",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_320",
+        "text": "Shastric",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_321",
+        "text": "Guru",
+        "label": "LOC",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_322",
+        "text": "Dasbodh",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_323",
+        "text": "Marathi",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_324",
+        "text": "Antyaja",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_352",
+        "text": "Zanu",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_353",
+        "text": "Ahmedabad",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_354",
+        "text": "November 1935",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_355",
+        "text": "Jaipur State",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_356",
+        "text": "about the 1st of April 1936",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_380",
+        "text": "the Muslim Empire",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_381",
+        "text": "Arabs",
+        "label": "NORP",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_382",
+        "text": "Prophet Mohammad",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_383",
+        "text": "Chandragupta",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_409",
+        "text": "VI Caste",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_428",
+        "text": "Christianity",
+        "label": "NORP",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_430",
+        "text": "Bhais",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_431",
+        "text": "Bhai",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_432",
+        "text": "Khalsa",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_433",
+        "text": "Sava Lakh",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_434",
+        "text": "Sanghatan",
+        "label": "LOC",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_435",
+        "text": "meek",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_462",
+        "text": "CASTE 65",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_464",
+        "text": "Shiya",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_465",
+        "text": "Sunni",
+        "label": "NORP",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_466",
+        "text": "Sheikh",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_467",
+        "text": "Saiyad",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_468",
+        "text": "Khatik",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_469",
+        "text": "Pinjari",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_470",
+        "text": "Mazbi",
+        "label": "NORP",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_471",
+        "text": "Ramdasi",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_472",
+        "text": "S. Radhakrishnan",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_473",
+        "text": "four thousand years",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_474",
+        "text": "the present day",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_476",
+        "text": "Hinduism",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_477",
+        "text": "Radhakrishnan",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_492",
+        "text": "Nanak",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_495",
+        "text": "Mohammedanism",
+        "label": "NORP",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_496",
+        "text": "Mohammed",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_520",
+        "text": "Ramanuja",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_521",
+        "text": "Kabir",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_527",
+        "text": "the Hindu Religion",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_532",
+        "text": "Religion",
+        "label": "WORK_OF_ART",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_537",
+        "text": "syphilis",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_539",
+        "text": "Prof. Carver",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_547",
+        "text": "Savarna Hindus",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_555",
+        "text": "nearly half a century",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_562",
+        "text": "non-Hindu",
+        "label": "NORP",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_568",
+        "text": "Sanskrit",
+        "label": "LOC",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_578",
+        "text": "Morality",
+        "label": "ORG",
+        "frequency": 1
+      }
+    ],
+    "internal_edges": 422,
+    "top_entities": [
+      "Hindus",
+      "Hindu",
+      "Sikh",
+      "Mohammedans",
+      "Mohammedan"
+    ]
+  },
+  {
+    "id": 26,
+    "size": 54,
+    "entities": [
+      {
+        "node_id": "entity_48",
+        "text": "non-Brahmin",
+        "label": "NORP",
+        "frequency": 7
+      },
+      {
+        "node_id": "entity_60",
+        "text": "Madras",
+        "label": "LOC",
+        "frequency": 6
+      },
+      {
+        "node_id": "entity_69",
+        "text": "Brahmins",
+        "label": "LOC",
+        "frequency": 5
+      },
+      {
+        "node_id": "entity_70",
+        "text": "Sonars",
+        "label": "ORG",
+        "frequency": 5
+      },
+      {
+        "node_id": "entity_73",
+        "text": "Deccan",
+        "label": "NORP",
+        "frequency": 5
+      },
+      {
+        "node_id": "entity_90",
+        "text": "Southern India",
+        "label": "LOC",
+        "frequency": 4
+      },
+      {
+        "node_id": "entity_108",
+        "text": "the Pathare Prabhus",
+        "label": "ORG",
+        "frequency": 3
+      },
+      {
+        "node_id": "entity_119",
+        "text": "South",
+        "label": "LOC",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_120",
+        "text": "North",
+        "label": "LOC",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_138",
+        "text": "Central India",
+        "label": "LOC",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_145",
+        "text": "Gujarat",
+        "label": "GPE",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_155",
+        "text": "Bengal",
+        "label": "GPE",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_156",
+        "text": "the Chamar of the Punjab",
+        "label": "ORG",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_161",
+        "text": "Kayastha",
+        "label": "GPE",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_169",
+        "text": "Parliament",
+        "label": "ORG",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_245",
+        "text": "two months",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_246",
+        "text": "Gujarati",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_247",
+        "text": "Tamil",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_249",
+        "text": "Malayalam",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_404",
+        "text": "49",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_405",
+        "text": "the Brahmin of the Punjab",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_406",
+        "text": "The Brahmin of the",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_412",
+        "text": "Sahyadrikhand",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_413",
+        "text": "Golak Brahmins",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_414",
+        "text": "Deorukha Brahmins",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_415",
+        "text": "Karada Brahmins",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_416",
+        "text": "Palshe Brahmins",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_417",
+        "text": "Chitpavan Brahmins",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_419",
+        "text": "non-Brahmins",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_425",
+        "text": "Daivadnya Brahmins",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_426",
+        "text": "the Councils of the East India Company’s",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_427",
+        "text": "Peshwas",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_450",
+        "text": "Vaishyas",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_479",
+        "text": "The Brahmins of Northern",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_480",
+        "text": "Northern India",
+        "label": "LOC",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_481",
+        "text": "Kayasthas",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_482",
+        "text": "the Brahmins of Kashmir",
+        "label": "LOC",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_483",
+        "text": "Gujaratis",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_484",
+        "text": "Marwaris",
+        "label": "NORP",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_485",
+        "text": "Banias",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_486",
+        "text": "Jains",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_487",
+        "text": "the Kayasthas of Northern India",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_488",
+        "text": "Non-Brahmins of Southern India",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_489",
+        "text": "the Non-Brahmins",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_490",
+        "text": "Dravid",
+        "label": "NORP",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_497",
+        "text": "the Brahmins of India",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_498",
+        "text": "a Brahmin ANNIHILATION OF",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_499",
+        "text": "the British Parliament",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_500",
+        "text": "Leslie Stephen",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_501",
+        "text": "Bhudevas",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_554",
+        "text": "Segaon",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_570",
+        "text": "Paithan",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_583",
+        "text": "Bania",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_584",
+        "text": "Brahmin",
+        "label": "NORP",
+        "frequency": 1
+      }
+    ],
+    "internal_edges": 406,
+    "top_entities": [
+      "non-Brahmin",
+      "Madras",
+      "Brahmins",
+      "Sonars",
+      "Deccan"
+    ]
+  },
+  {
+    "id": 14,
+    "size": 44,
+    "entities": [
+      {
+        "node_id": "entity_17",
+        "text": "Manu",
+        "label": "PERSON",
+        "frequency": 14
+      },
+      {
+        "node_id": "entity_25",
+        "text": "Vedas",
+        "label": "PERSON",
+        "frequency": 12
+      },
+      {
+        "node_id": "entity_53",
+        "text": "Smritis",
+        "label": "GPE",
+        "frequency": 7
+      },
+      {
+        "node_id": "entity_74",
+        "text": "Dharma",
+        "label": "PERSON",
+        "frequency": 5
+      },
+      {
+        "node_id": "entity_91",
+        "text": "Sadachar",
+        "label": "ORG",
+        "frequency": 4
+      },
+      {
+        "node_id": "entity_164",
+        "text": "Manu-Smriti",
+        "label": "PERSON",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_167",
+        "text": "Mahabharata",
+        "label": "ORG",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_172",
+        "text": "Smriti",
+        "label": "PERSON",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_173",
+        "text": "Upanishads",
+        "label": "ORG",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_225",
+        "text": "Matthew Arnold",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_293",
+        "text": "Veda",
+        "label": "WORK_OF_ART",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_347",
+        "text": "Dhar",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_438",
+        "text": "XII",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_449",
+        "text": "the twentieth century",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_478",
+        "text": "XX",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_502",
+        "text": "Shishthas",
+        "label": "NORP",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_503",
+        "text": "vukEukrs\"kq /esZ\"kq dFka L;kfnfr",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_506",
+        "text": "XXII",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_507",
+        "text": "LoL",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_508",
+        "text": "ks¿oeU;sr",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_509",
+        "text": "ukfLrdks",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_510",
+        "text": "Jqfr}S",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_511",
+        "text": "Shruti",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_512",
+        "text": "Shloka",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_513",
+        "text": "k'p dk'p",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_514",
+        "text": "Brihaspati",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_515",
+        "text": "osnk;Roksifuca/`Ror~ izek.",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_516",
+        "text": "Shrutis",
+        "label": "NORP",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_517",
+        "text": "Mahabharat",
+        "label": "NORP",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_518",
+        "text": "pRokfj",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_519",
+        "text": "Railway",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_522",
+        "text": "|íkp;Zrs",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_523",
+        "text": "su /E;±",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_524",
+        "text": "kQekxr%",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_525",
+        "text": "losZ\"kka l",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_526",
+        "text": "the Religion of the Shrutis and the Smritis",
+        "label": "WORK_OF_ART",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_528",
+        "text": "Jaimini",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_529",
+        "text": "Purva",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_535",
+        "text": "Puranas",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_550",
+        "text": "July 11, 1936",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_551",
+        "text": "Ramayana",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_552",
+        "text": "the Hindu Scriptures",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_571",
+        "text": "Eknath",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_572",
+        "text": "Dharmatma",
+        "label": "PERSON",
+        "frequency": 1
+      }
+    ],
+    "internal_edges": 207,
+    "top_entities": [
+      "Manu",
+      "Vedas",
+      "Smritis",
+      "Dharma",
+      "Sadachar"
+    ]
+  },
+  {
+    "id": 18,
+    "size": 43,
+    "entities": [
+      {
+        "node_id": "entity_22",
+        "text": "Plebians",
+        "label": "NORP",
+        "frequency": 13
+      },
+      {
+        "node_id": "entity_57",
+        "text": "Ulster",
+        "label": "PERSON",
+        "frequency": 6
+      },
+      {
+        "node_id": "entity_58",
+        "text": "Patricians",
+        "label": "NORP",
+        "frequency": 6
+      },
+      {
+        "node_id": "entity_67",
+        "text": "the Communal Award",
+        "label": "ORG",
+        "frequency": 5
+      },
+      {
+        "node_id": "entity_83",
+        "text": "Ireland",
+        "label": "GPE",
+        "frequency": 4
+      },
+      {
+        "node_id": "entity_84",
+        "text": "Rome",
+        "label": "GPE",
+        "frequency": 4
+      },
+      {
+        "node_id": "entity_86",
+        "text": "Consul",
+        "label": "GPE",
+        "frequency": 4
+      },
+      {
+        "node_id": "entity_105",
+        "text": "Karl Marx",
+        "label": "PERSON",
+        "frequency": 3
+      },
+      {
+        "node_id": "entity_106",
+        "text": "Plebian",
+        "label": "NORP",
+        "frequency": 3
+      },
+      {
+        "node_id": "entity_146",
+        "text": "Southern Ireland",
+        "label": "GPE",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_147",
+        "text": "Ulstermen",
+        "label": "GPE",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_148",
+        "text": "Catholics",
+        "label": "NORP",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_149",
+        "text": "Protestants",
+        "label": "NORP",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_150",
+        "text": "the Republican Constitution of Rome",
+        "label": "LAW",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_357",
+        "text": "Mill",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_361",
+        "text": "Ferdinand Lassalle",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_362",
+        "text": "Prussian",
+        "label": "NORP",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_363",
+        "text": "1862",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_364",
+        "text": "Lassalle",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_365",
+        "text": "Prussia",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_366",
+        "text": "The Communal Award",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_367",
+        "text": "Irish Home Rule",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_368",
+        "text": "Redmond",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_369",
+        "text": "Ulster to Irish Home Rule",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_370",
+        "text": "Rome Rule",
+        "label": "FAC",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_371",
+        "text": "Imperialist",
+        "label": "NORP",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_372",
+        "text": "Kingly",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_373",
+        "text": "Imperium",
+        "label": "WORK_OF_ART",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_374",
+        "text": "This Republican Constitution",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_375",
+        "text": "Patrician",
+        "label": "NORP",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_376",
+        "text": "the Constitution of Republican Rome",
+        "label": "LAW",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_384",
+        "text": "Sadhus",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_385",
+        "text": "Fakirs",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_386",
+        "text": "Benares",
+        "label": "FAC",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_387",
+        "text": "Mecca",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_388",
+        "text": "the Commitia Centuriata",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_389",
+        "text": "the Patrician Consuls",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_390",
+        "text": "the Republican Constitution of Rome one",
+        "label": "LAW",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_391",
+        "text": "Roman",
+        "label": "NORP",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_392",
+        "text": "Delphi",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_393",
+        "text": "Oracle",
+        "label": "NORP",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_422",
+        "text": "Constitution",
+        "label": "LAW",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_423",
+        "text": "thousands of years old",
+        "label": "DATE",
+        "frequency": 1
+      }
+    ],
+    "internal_edges": 193,
+    "top_entities": [
+      "Plebians",
+      "Ulster",
+      "Patricians",
+      "the Communal Award",
+      "Ireland"
+    ]
+  },
+  {
+    "id": 25,
+    "size": 35,
+    "entities": [
+      {
+        "node_id": "entity_44",
+        "text": "State",
+        "label": "ORG",
+        "frequency": 8
+      },
+      {
+        "node_id": "entity_77",
+        "text": "Indians",
+        "label": "NORP",
+        "frequency": 4
+      },
+      {
+        "node_id": "entity_103",
+        "text": "Kavitha",
+        "label": "GPE",
+        "frequency": 3
+      },
+      {
+        "node_id": "entity_124",
+        "text": "Aryan",
+        "label": "NORP",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_125",
+        "text": "Dravidian",
+        "label": "NORP",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_132",
+        "text": "Caste Hindus",
+        "label": "PERSON",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_139",
+        "text": "the Times of India",
+        "label": "ORG",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_140",
+        "text": "Rajputs",
+        "label": "NORP",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_141",
+        "text": "Bicholi",
+        "label": "GPE",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_142",
+        "text": "Balais",
+        "label": "PERSON",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_143",
+        "text": "Balai",
+        "label": "ORG",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_144",
+        "text": "States",
+        "label": "GPE",
+        "frequency": 2
+      },
+      {
+        "node_id": "entity_193",
+        "text": "Aryans",
+        "label": "NORP",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_194",
+        "text": "Dravidians",
+        "label": "NORP",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_195",
+        "text": "Mongolians",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_196",
+        "text": "Scythians",
+        "label": "NORP",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_197",
+        "text": "centuries ago",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_204",
+        "text": "Negroes",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_205",
+        "text": "Whites",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_206",
+        "text": "the United States",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_253",
+        "text": "B. R. AMBEDKAR PREFACE",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_255",
+        "text": "1937",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_339",
+        "text": "January 1928",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_340",
+        "text": "Kalotas",
+        "label": "PERSON",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_341",
+        "text": "Patels",
+        "label": "FAC",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_342",
+        "text": "Patwaris",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_343",
+        "text": "Kanaria",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_344",
+        "text": "Mardana",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_345",
+        "text": "the Indore State",
+        "label": "ORG",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_346",
+        "text": "Darbar",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_348",
+        "text": "Dewas",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_349",
+        "text": "Bagli",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_350",
+        "text": "Bhopal",
+        "label": "GPE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_351",
+        "text": "only last year",
+        "label": "DATE",
+        "frequency": 1
+      },
+      {
+        "node_id": "entity_536",
+        "text": "I.C.S.",
+        "label": "ORG",
+        "frequency": 1
+      }
+    ],
+    "internal_edges": 154,
+    "top_entities": [
+      "State",
+      "Indians",
+      "Kavitha",
+      "Aryan",
+      "Dravidian"
+    ]
+  },
+  {
+    "id": 0,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_0",
+        "text": "Caste",
+        "label": "PERSON",
+        "frequency": 172
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Caste"
+    ]
+  },
+  {
+    "id": 2,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_3",
+        "text": "Brahmins",
+        "label": "NORP",
+        "frequency": 81
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Brahmins"
+    ]
+  },
+  {
+    "id": 4,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_5",
+        "text": "Mahatma",
+        "label": "PERSON",
+        "frequency": 65
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Mahatma"
+    ]
+  },
+  {
+    "id": 6,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_7",
+        "text": "Chaturvarnya",
+        "label": "GPE",
+        "frequency": 49
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Chaturvarnya"
+    ]
+  },
+  {
+    "id": 7,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_8",
+        "text": "Brahmins",
+        "label": "PERSON",
+        "frequency": 48
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Brahmins"
+    ]
+  },
+  {
+    "id": 8,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_9",
+        "text": "Shastras",
+        "label": "LOC",
+        "frequency": 46
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Shastras"
+    ]
+  },
+  {
+    "id": 9,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_11",
+        "text": "Varna",
+        "label": "GPE",
+        "frequency": 36
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Varna"
+    ]
+  },
+  {
+    "id": 10,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_12",
+        "text": "Brahmin",
+        "label": "PERSON",
+        "frequency": 34
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Brahmin"
+    ]
+  },
+  {
+    "id": 11,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_13",
+        "text": "the Caste System",
+        "label": "WORK_OF_ART",
+        "frequency": 30
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "the Caste System"
+    ]
+  },
+  {
+    "id": 12,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_15",
+        "text": "Hinduism",
+        "label": "NORP",
+        "frequency": 18
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Hinduism"
+    ]
+  },
+  {
+    "id": 15,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_18",
+        "text": "Untouchables",
+        "label": "NORP",
+        "frequency": 14
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Untouchables"
+    ]
+  },
+  {
+    "id": 16,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_429",
+        "text": "Sanghatan",
+        "label": "PERSON",
+        "frequency": 1
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Sanghatan"
+    ]
+  },
+  {
+    "id": 17,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_21",
+        "text": "Lahore",
+        "label": "GPE",
+        "frequency": 13
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Lahore"
+    ]
+  },
+  {
+    "id": 19,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_27",
+        "text": "Socialists",
+        "label": "NORP",
+        "frequency": 12
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Socialists"
+    ]
+  },
+  {
+    "id": 20,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_28",
+        "text": "Religion",
+        "label": "ORG",
+        "frequency": 12
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Religion"
+    ]
+  },
+  {
+    "id": 21,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_30",
+        "text": "Mandal",
+        "label": "LOC",
+        "frequency": 11
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Mandal"
+    ]
+  },
+  {
+    "id": 22,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_31",
+        "text": "Non-Hindus",
+        "label": "ORG",
+        "frequency": 11
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Non-Hindus"
+    ]
+  },
+  {
+    "id": 23,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_35",
+        "text": "Castes",
+        "label": "PERSON",
+        "frequency": 9
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Castes"
+    ]
+  },
+  {
+    "id": 24,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_37",
+        "text": "Vaishya",
+        "label": "GPE",
+        "frequency": 9
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Vaishya"
+    ]
+  },
+  {
+    "id": 27,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_59",
+        "text": "Caste System",
+        "label": "PERSON",
+        "frequency": 6
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Caste System"
+    ]
+  },
+  {
+    "id": 28,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_62",
+        "text": "Ketkar",
+        "label": "PERSON",
+        "frequency": 5
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Ketkar"
+    ]
+  },
+  {
+    "id": 29,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_63",
+        "text": "Mahatma Gandhi",
+        "label": "PERSON",
+        "frequency": 5
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Mahatma Gandhi"
+    ]
+  },
+  {
+    "id": 30,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_64",
+        "text": "Harijan",
+        "label": "GPE",
+        "frequency": 5
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Harijan"
+    ]
+  },
+  {
+    "id": 31,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_68",
+        "text": "Goddess",
+        "label": "ORG",
+        "frequency": 5
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Goddess"
+    ]
+  },
+  {
+    "id": 32,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_75",
+        "text": "Sadachar",
+        "label": "GPE",
+        "frequency": 5
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Sadachar"
+    ]
+  },
+  {
+    "id": 33,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_81",
+        "text": "Balais",
+        "label": "NORP",
+        "frequency": 4
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Balais"
+    ]
+  },
+  {
+    "id": 34,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_87",
+        "text": "Socialist",
+        "label": "NORP",
+        "frequency": 4
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Socialist"
+    ]
+  },
+  {
+    "id": 35,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_89",
+        "text": "Kshatriyas",
+        "label": "ORG",
+        "frequency": 4
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Kshatriyas"
+    ]
+  },
+  {
+    "id": 36,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_111",
+        "text": "Puranas",
+        "label": "PERSON",
+        "frequency": 3
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Puranas"
+    ]
+  },
+  {
+    "id": 37,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_112",
+        "text": "Smriti",
+        "label": "ORG",
+        "frequency": 3
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Smriti"
+    ]
+  },
+  {
+    "id": 38,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_113",
+        "text": "Shruti",
+        "label": "GPE",
+        "frequency": 3
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Shruti"
+    ]
+  },
+  {
+    "id": 39,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_117",
+        "text": "Hinduism",
+        "label": "PERSON",
+        "frequency": 3
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Hinduism"
+    ]
+  },
+  {
+    "id": 40,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_123",
+        "text": "Sanskrit",
+        "label": "ORG",
+        "frequency": 2
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Sanskrit"
+    ]
+  },
+  {
+    "id": 41,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_126",
+        "text": "Mandal",
+        "label": "ORG",
+        "frequency": 2
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Mandal"
+    ]
+  },
+  {
+    "id": 42,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_133",
+        "text": "Guru",
+        "label": "PERSON",
+        "frequency": 2
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Guru"
+    ]
+  },
+  {
+    "id": 43,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_157",
+        "text": "non-Brahmins",
+        "label": "NORP",
+        "frequency": 2
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "non-Brahmins"
+    ]
+  },
+  {
+    "id": 44,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_159",
+        "text": "Sanghatan",
+        "label": "GPE",
+        "frequency": 2
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Sanghatan"
+    ]
+  },
+  {
+    "id": 45,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_165",
+        "text": "Vaishyas",
+        "label": "ORG",
+        "frequency": 2
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Vaishyas"
+    ]
+  },
+  {
+    "id": 46,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_166",
+        "text": "the Arya Samajists",
+        "label": "PERSON",
+        "frequency": 2
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "the Arya Samajists"
+    ]
+  },
+  {
+    "id": 47,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_171",
+        "text": "Veda",
+        "label": "PERSON",
+        "frequency": 2
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Veda"
+    ]
+  },
+  {
+    "id": 48,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_218",
+        "text": "the 18th century",
+        "label": "DATE",
+        "frequency": 1
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "the 18th century"
+    ]
+  },
+  {
+    "id": 49,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_220",
+        "text": "Origin",
+        "label": "PERSON",
+        "frequency": 1
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Origin"
+    ]
+  },
+  {
+    "id": 50,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_229",
+        "text": "Walter Bagehot",
+        "label": "PERSON",
+        "frequency": 1
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Walter Bagehot"
+    ]
+  },
+  {
+    "id": 51,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_248",
+        "text": "Marathi",
+        "label": "GPE",
+        "frequency": 1
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Marathi"
+    ]
+  },
+  {
+    "id": 52,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_285",
+        "text": "Lahore",
+        "label": "FAC",
+        "frequency": 1
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Lahore"
+    ]
+  },
+  {
+    "id": 53,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_288",
+        "text": "Lahore",
+        "label": "PERSON",
+        "frequency": 1
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Lahore"
+    ]
+  },
+  {
+    "id": 54,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_316",
+        "text": "B.R.",
+        "label": "PERSON",
+        "frequency": 1
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "B.R."
+    ]
+  },
+  {
+    "id": 55,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_398",
+        "text": "Socialism",
+        "label": "LOC",
+        "frequency": 1
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Socialism"
+    ]
+  },
+  {
+    "id": 56,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_403",
+        "text": "The Caste system",
+        "label": "WORK_OF_ART",
+        "frequency": 1
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "The Caste system"
+    ]
+  },
+  {
+    "id": 57,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_410",
+        "text": "The Caste System",
+        "label": "WORK_OF_ART",
+        "frequency": 1
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "The Caste System"
+    ]
+  },
+  {
+    "id": 58,
+    "size": 1,
+    "entities": [
+      {
+        "node_id": "entity_420",
+        "text": "Kayasthas",
+        "label": "NORP",
+        "frequency": 1
+      }
+    ],
+    "internal_edges": 0,
+    "top_entities": [
+      "Kayasthas"
+    ]
+  }
+]
