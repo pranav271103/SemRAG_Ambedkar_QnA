@@ -1,5 +1,9 @@
 # AmbedkarGPT
 
+<div align="center">
+  <img src="assets/Picture1.png" alt="AmbedkarGPT Logo" width="300"/>
+</div>
+
 ### SemRAG-Powered Q&A System on Dr. B.R. Ambedkar's Works
 
 [![Python](https://img.shields.io/badge/Python-3.9+-3776ab?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
