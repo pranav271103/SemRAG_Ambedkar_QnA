@@ -116,14 +116,6 @@ flowchart TB
         N --> O[LLM - Ollama<br/>granite3-dense:2b]
         O --> P[Answer + Sources]
     end
-
-    style A fill:#e1f5fe
-    style B fill:#fff3e0
-    style C fill:#f3e5f5
-    style D fill:#e8f5e9
-    style H fill:#e3f2fd
-    style O fill:#fce4ec
-    style P fill:#c8e6c9
 ```
 
 ---
